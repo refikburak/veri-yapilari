@@ -1,0 +1,1 @@
+Belirtilen indis yoksa ve indis değeri geçersizse yani negatifse belirtilen işlem son eleman için yapılıyor.

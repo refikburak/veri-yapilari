@@ -1,0 +1,8 @@
+E(2#Mehmet)
+E(0#Burak)
+E(3#Can)
+E(1#Deniz)
+E(7#Ayse)
+S(0)
+E(2#Fatih)
+E(0#Adil)
